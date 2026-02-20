@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohammed Shabeeb Thelath 👋
 
-🔭 Senior Data Engineer  | 🚀 Data Enthusiast | ☁️ Cloud Learner  
+🔭 BI Manager | 🚀 Data Enthusiast | ☁️ Cloud Learner  
 💡 Currently working on: Insurance Analytics, Oracle SQL, and AI-driven stuffs
 
 🔍 **Senior Business Intelligence Analyst @ Wataniya Insurance**  
