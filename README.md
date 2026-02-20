@@ -3,7 +3,7 @@
 🔭 BI Manager | 🚀 Data Enthusiast | ☁️ Cloud Learner  
 💡 Currently working on: Insurance Analytics, Oracle SQL, and AI-driven stuffs
 
-🔍 **Senior Business Intelligence Analyst @ Wataniya Insurance**  
+🔍 **BI Manager @ Wataniya Insurance**  
 📊 **20+ years in the insurance industry**  
 🚀 **Specializing in Claims Portfolio Management, Underwriting, and Reinsurance**  
 📈 **Expert in transforming complex data into actionable insights**
